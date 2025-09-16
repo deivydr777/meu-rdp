@@ -36,4 +36,3 @@ jobs:
       run: |
         Write-Host "💻 RDP ativo por 6 horas! Use o Tailscale IP para conectar."
         Start-Sleep -Seconds 21600
-        
